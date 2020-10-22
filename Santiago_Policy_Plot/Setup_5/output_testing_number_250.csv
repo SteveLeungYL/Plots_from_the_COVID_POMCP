@@ -1,0 +1,2 @@
+Simulations,Runs,Undiscounted_return,Undiscounted_error,Discounted_return,Discounted_error,Time,Cumulative_I,Testing_Number_Total,Testing_Number_Min,Testing_Number_Max,Testing_Number_Variance,Reward_Numerator,Reward_Denominator
+1024, 100, -15021.2, 30.8726, -15021.2, 30.8726, 84.5625, 3978.44, 7500, 7500, 7500, 0, 85673, 0

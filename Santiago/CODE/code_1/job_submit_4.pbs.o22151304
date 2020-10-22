@@ -1,0 +1,7 @@
+Running on population: 89000, num_simulation: 4096, horizon: 30, testing_action_step: 10.
+
+./pomcp --problem covid --outputfile output_num_simulation_12.csv --total_population 89000 --horizon 30 --maximum_testing_number 500  --testing_group_number 32 --testing_action_step 10 --runs 100 --mindoubles 12 --maxdoubles 12 --time_step 1  --I_class_ratio 0.00637 --R_class_ratio 0.0162  --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false  --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1 
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0

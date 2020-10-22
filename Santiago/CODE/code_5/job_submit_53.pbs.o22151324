@@ -1,0 +1,28 @@
+Running on population: 89000, total_testing_number:400, num_simulation: 1024, horizon: 30, testing_action_step: 10, R0_value: 2.00, I_ratio: 0.0064, R_ratio: 0.0162.
+
+./pomcp --problem covid --outputfile output_testing_number_400.csv --total_population 89000 --horizon 30 --maximum_testing_number 400 --R0_value 2.00 --I_class_ratio 0.0064 --R_class_ratio 0.0162  --testing_group_number 32 --testing_action_step 10 --runs 100 --mindoubles 10 --maxdoubles 10 --time_step 1 --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0
+Running on population: 89000, total_testing_number:450, num_simulation: 1024, horizon: 30, testing_action_step: 10, R0_value: 2.00, I_ratio: 0.0064, R_ratio: 0.0162.
+
+./pomcp --problem covid --outputfile output_testing_number_450.csv --total_population 89000 --horizon 30 --maximum_testing_number 450 --R0_value 2.00 --I_class_ratio 0.0064 --R_class_ratio 0.0162  --testing_group_number 32 --testing_action_step 10 --runs 100 --mindoubles 10 --maxdoubles 10 --time_step 1 --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0
+Running on population: 89000, total_testing_number:500, num_simulation: 1024, horizon: 30, testing_action_step: 10, R0_value: 2.00, I_ratio: 0.0064, R_ratio: 0.0162.
+
+./pomcp --problem covid --outputfile output_testing_number_500.csv --total_population 89000 --horizon 30 --maximum_testing_number 500 --R0_value 2.00 --I_class_ratio 0.0064 --R_class_ratio 0.0162  --testing_group_number 32 --testing_action_step 10 --runs 100 --mindoubles 10 --maxdoubles 10 --time_step 1 --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0
+Running on population: 89000, total_testing_number:550, num_simulation: 1024, horizon: 30, testing_action_step: 10, R0_value: 2.00, I_ratio: 0.0064, R_ratio: 0.0162.
+
+./pomcp --problem covid --outputfile output_testing_number_550.csv --total_population 89000 --horizon 30 --maximum_testing_number 550 --R0_value 2.00 --I_class_ratio 0.0064 --R_class_ratio 0.0162  --testing_group_number 32 --testing_action_step 10 --runs 100 --mindoubles 10 --maxdoubles 10 --time_step 1 --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0

@@ -1,0 +1,14 @@
+Running on population: 89000, total_testing_number:500, num_simulation: 1024, horizon: 30, testing_action_step: 10, R0_value: 2.00, I_ratio: 0.0064, R_ratio: 0.0162, testing_sensitivity: 0.80.
+
+./pomcp --problem covid --outputfile output_testing_sensitivity_0.80.csv --total_population 89000 --horizon 30 --maximum_testing_number 500 --R0_value 2.00 --I_class_ratio 0.0064 --R_class_ratio 0.0162  --testing_group_number 32 --testing_action_step 10 --runs 100 --mindoubles 10 --maxdoubles 10 --time_step 1 --testing_sensitivity 0.80 --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0
+Running on population: 89000, total_testing_number:500, num_simulation: 1024, horizon: 30, testing_action_step: 10, R0_value: 2.00, I_ratio: 0.0064, R_ratio: 0.0162, testing_sensitivity: 0.90.
+
+./pomcp --problem covid --outputfile output_testing_sensitivity_0.90.csv --total_population 89000 --horizon 30 --maximum_testing_number 500 --R0_value 2.00 --I_class_ratio 0.0064 --R_class_ratio 0.0162  --testing_group_number 32 --testing_action_step 10 --runs 100 --mindoubles 10 --maxdoubles 10 --time_step 1 --testing_sensitivity 0.90 --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0

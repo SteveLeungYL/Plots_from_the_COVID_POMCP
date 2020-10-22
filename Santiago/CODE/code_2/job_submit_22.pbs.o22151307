@@ -1,0 +1,14 @@
+Running on population: 75000, num_simulation: 1024, horizon: 30, testing_number: 300, testing_action_step: 15.
+
+./pomcp --problem covid --outputfile output_num_population_75000.csv --total_population 75000 --horizon 30 --maximum_testing_number 300  --testing_group_number 32 --testing_action_step 15 --runs 100 --mindoubles 10 --maxdoubles 10 --time_step 1 --I_class_ratio 0.00637 --R_class_ratio 0.0162 --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0
+Running on population: 100000, num_simulation: 1024, horizon: 30, testing_number: 400, testing_action_step: 20.
+
+./pomcp --problem covid --outputfile output_num_population_100000.csv --total_population 100000 --horizon 30 --maximum_testing_number 400  --testing_group_number 32 --testing_action_step 20 --runs 100 --mindoubles 10 --maxdoubles 10 --time_step 1 --I_class_ratio 0.00637 --R_class_ratio 0.0162 --accuracy 0.1 --verbose 0 --autoexploration false --timeout 999999 --userave false --ravediscount 1.0 --raveconstant 0.01 --disabletree false --exploration 1 --usetransforms true --debug_mode 1
+
+b'Initialising fast UCB table... done'
+b''
+RETURN CODE 0
